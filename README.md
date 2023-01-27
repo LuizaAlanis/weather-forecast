@@ -7,15 +7,26 @@ Weather Forecast using python
 Clone the repository
 
 ```bash
+
 git@github.com:LuizaAlanis/weather-forecast.git
+
 ```
 
 ## Usage
 
 ```python
 
+# implement the function with the request
+def weather(city):
+    url = 'https://wttr.in/{}'.format(city)
+    res = requests.get(url)
+
+    # display
+    print(res.text)
+
 
 # call the function and enter a city
+weather(city)
 
 ```
 
