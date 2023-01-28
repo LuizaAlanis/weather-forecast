@@ -30,6 +30,10 @@ weather(city)
 
 ```
 
+## Output example
+
+![alt text](http://url/to/img.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
