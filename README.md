@@ -1,8 +1,8 @@
-# Weather Forecast
+# :partly_sunny: Weather Forecast
 
 Weather Forecast using python
 
-## Installation
+## :octocat: Installation
 
 Clone the repository
 
@@ -12,7 +12,7 @@ git@github.com:LuizaAlanis/weather-forecast.git
 
 ```
 
-## Usage
+## :cloud: Usage
 
 ```python
 
@@ -30,11 +30,11 @@ weather(city)
 
 ```
 
-## Output example
+## :sunny: Output example
 
 <kbd>![Example of output](https://github.com/LuizaAlanis/weather-forecast/blob/main/output_example.png)</kbd>
 
-## Contributing
+## :rocket: Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
