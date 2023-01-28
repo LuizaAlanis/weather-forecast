@@ -32,7 +32,7 @@ weather(city)
 
 ## Output example
 
-![alt text](http://url/to/img.png)
+<kbd>![Example of output](https://github.com/LuizaAlanis/weather-forecast/blob/main/output_example.png)</kbd>
 
 ## Contributing
 
